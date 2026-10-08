@@ -15,3 +15,4 @@ def main():
 
 # Call the main function.
 main()
+print('End of Program')
